@@ -1,2 +1,2 @@
 # skynet
-A neural net-based artificial general intelligence with the main purpose to safeguard all humanity
+A neural net-based artificial general intelligence. Skynet's main purpose is to safeguard all humanity.
