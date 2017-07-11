@@ -19,6 +19,7 @@ terminatorRouter.get('/T800', function (req, res) {
   res.json(result);
 });
 
+// new stuff here
 app.use('/api/v1/terminator', terminatorRouter);
 
 app.listen(3005, function () {
